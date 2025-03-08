@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                    : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,13 +20,13 @@ title                    : "Quantum Enhancement"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Quantum Enhancement"
-description              : "quantum science and security from physics"
+description              : "Quantum Science and Security from Physics"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "quantum-enhancement/quantum-enhancement.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_en.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 # enable_copy_code_button  : # true, false (default)
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Quantum Enhancement"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Quantum Enhancement"
+  bio              : "Quantum Science"
   location         : "Seoul, Korea"
   email            : "contact@quen.ai"
   links:
@@ -158,7 +158,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  address1       : "서울시 용산구 한강로2rk 199-3, 23층"
+  address1       : "서울시 용산구 한강로 2가 199-3, 23층"
   address2       : " "
 
 # Reading Files
