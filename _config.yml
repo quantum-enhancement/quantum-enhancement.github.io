@@ -219,6 +219,53 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false # true
+      share: false
+      related: false
+  # _news
+  - scope:
+      path: "_news"
+      type: news
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false # true
+      share: false
+      related: false
+  # _docs
+  - scope:
+      path: "_docs"
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+#      toc_sticky: true
+#      sidebar:
+#        nav: "docs"
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -309,38 +356,5 @@ compress_html:
   ignore:
     envs: development
 
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  news:
-    output: true
-    permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false # true
-      share: false
-      related: false
-  # _news
-  - scope:
-      path: "_news"
-      type: news
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false # true
-      share: false
-      related: false
 
 github: [metadata]
