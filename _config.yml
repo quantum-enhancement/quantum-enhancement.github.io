@@ -309,17 +309,36 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: false
       read_time: true
+      comments: false # true
+      share: false
+      related: false
+  # _news
+  - scope:
+      path: "_news"
+      type: news
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
       comments: false # true
       share: false
       related: false

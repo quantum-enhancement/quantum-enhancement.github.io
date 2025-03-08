@@ -1,12 +1,16 @@
 ---
 permalink: /contact/
 title: "Contact"
-date: 2025-01-26
-last_modified_at: 2018-02-13T12:42:42-05:00
 excerpt: " "
+layout: single
+classes: wide
+toc: false
 ---
 
-<h1>Contact Us</h1>
+Contact us  
+
+Reach out using the form below, or email contact@quen.ai  
+
 <form action="https://formspree.io/your-email@example.com" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
