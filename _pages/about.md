@@ -13,15 +13,15 @@ excerpt: "Technologies by quantum science and security from physics !"
 {: .notice--info}
 이 페이지는 아직 작업중입니다.
 
-
-### 회사 소개 
+## 회사 소개 
 Technologies by quantum science and security from physics !  
 We develop the necessary solutions with spooky action at a distance.  
 
-### 연혁  
+
+## 연혁  
 
 
-### Address
+## Address
 {{ site.footer.address1 }}  
 
 
