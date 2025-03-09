@@ -1,6 +1,10 @@
 ---
-title: "Configuration"
+title: "Q-communication"
 permalink: /docs/home_more1/
-excerpt: "Settings for configuring and customizing the theme."
+excerpt: "Efficient QKD Post Processing using Word Masking technique"
 toc: false
+---
 
+QKD Post-processing secure accelerator
+
+True quantum number generator
