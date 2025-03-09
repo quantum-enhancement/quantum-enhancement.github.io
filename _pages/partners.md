@@ -4,6 +4,10 @@ permalink: /partners/
 layout: single
 classes: wide
 author_profile: false
+header:
+    overlay_image: assets/images/partnership_header.jpeg
+    overlay_filter: 0.5
+excerpt: "Technologies by quantum science and security from physics !"
 ---
 
 ## An unprecedented level of access to today’s best quantum hardware  
