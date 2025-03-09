@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ai_gen3.jpg
+  overlay_image: /assets/images/entanglement.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
@@ -12,24 +12,24 @@ excerpt: >
   Technologies by quantum science and security from physics !  <br />
   We develop the necessary solutions with spooky action at a distance.
 feature_row:
-  - image_path: /assets/images/home_image1.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/information1.png
+    alt: "Q-communication"
+    title: "Q-communication"
+    excerpt: "Efficient QKD Post Processing using Word Masking technique"
     url: "/docs/home_more1/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/home_image2.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/sensitive_fast_safe.png
+    alt: "Q-computation"
+    title: "Q-computation"
+    excerpt: "Quantum Algorithm for Large Scale Quantum System Simulation"
     url: "/docs/home_more2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/home_image3.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/degenerate_fwm.png
+    alt: "security"
+    title: "Multipurpose Prototype of Quantum Entanglement"
+    excerpt: "For long distance entanglement distribution in freq. domain and for quantum networks"
     url: "/docs/home_more3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

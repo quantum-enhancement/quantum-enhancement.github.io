@@ -6,22 +6,18 @@ layout: single
 classes: wide
 toc: false
 header:
-  overlay_color: "#5e616c"
+  #overlay_color: "#5e616c"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  #overlay_image: /assets/images/back_gen.jpeg
+  overlay_image: /assets/images/ai_gen3.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: >
-    Reach out using the form below, or email contact@quen.ai  
-
+excerpt: Reach out using the form below, or email contact@quen.ai  
 ---
+## Contact us
 
-## Contact us  
-
-
-
-아래 폼은 아직 동작안함. 그냥 위치만 설정한 것임
+{: .notice--info}
+이 페이지는 아직 작업중입니다. 아래 폼은 아직 동작안함.
 
 <form action="https://formspree.io/your-email@example.com" method="POST">
   <label for="name">Name:</label>

@@ -16,45 +16,22 @@ Our partnerships provide Quantum Enhancemet with unique opportunities to scale d
 
 ---------------------------------------
 
+ 
+**아토믹스 AI**  
+[https://cloudfold.atomics.ai/](https://cloudfold.atomics.ai/)  
+단백질 분자구조 계산을 통한 신약 개발  
+단백질 구조 및 약물분자 데이터 셋을 구성하고 인공지능 모델학습방법론 개발을 통한 용해도 데이터 및 결합친화도 데이터 셋 구축 
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
+---------------------------------------
 
-**Company 1**  
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
-As you can see there should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition.
+**제로시스**  
+[http://www.zerocis.com/](http://www.zerocis.com/)  
+그린수소 생성장치 개발  
+연구개발 스타트업  
+수소발생의 효율성을 높이기위한 촉매개발  
+부산물로 전기 전도성 좋은 탄소 획득  
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
 
-**Company 2**  
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-
-As you can see there should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition.
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
-
-**Company 3**  
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-
-As you can see there should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition.
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
-
-**Company 4**  
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-
-As you can see there should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. 
 
 
