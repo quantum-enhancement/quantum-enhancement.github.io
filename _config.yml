@@ -227,6 +227,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -253,6 +256,17 @@ defaults:
       comments: false # true
       share: false
       related: false
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false # true
+      share: false
+      related: false  
   # _docs
   - scope:
       path: "_docs"
