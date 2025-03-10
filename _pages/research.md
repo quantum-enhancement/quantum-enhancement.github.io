@@ -9,7 +9,7 @@ toc: false
 header:
     overlay_image: assets/images/ai_gen2_clipped.jpg
     overlay_filter: 0.4
-excerpt: "Technologies by quantum science and security from physics !"
+excerpt: ""
 ---
 
 {: .notice--info}
