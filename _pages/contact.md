@@ -12,7 +12,7 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: Reach out using the form below, or email contact@quen.ai  
+excerpt: Reach out using the form below, or email [contact@quen.ai](mailto:contact@quen.ai)  
 ---
 ## Contact us
 
