@@ -1,5 +1,5 @@
 ---
-title: "The Materials Modeling<br>Quantum Complexity Database"
+title: "Database for Qauntum assisted Design of Chemical Catalysts"
 permalink: /database/
 layout: single
 classes: wide
@@ -11,6 +11,5 @@ header:
 excerpt: ""
 ---
 
-## Materials
-
+## Chemical Catalysts
 
