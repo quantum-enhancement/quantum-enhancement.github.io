@@ -3,7 +3,7 @@ title: "NEWS"
 layout: collection
 permalink: /news/
 collection: news
-entries_layout: list
+entries_layout: grid
 classes: wide
 sort_by: date
 sort_order: reverse  
