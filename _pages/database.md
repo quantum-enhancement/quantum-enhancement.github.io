@@ -1,5 +1,5 @@
 ---
-title: "Database for Qauntum assisted Design of Chemical Catalysts"
+title: Database for 
 permalink: /database/
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ toc: false
 header:
     overlay_image: assets/images/ai_gen1_clipped.jpg
     overlay_filter: 0.4
-excerpt: ""
+excerpt: "Quantum Assisted Design of Advanced Chemical Catalysts(QADACC)"
 ---
 
 ## Chemical Catalysts

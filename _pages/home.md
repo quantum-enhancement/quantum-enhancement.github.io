@@ -29,8 +29,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/degenerate_fwm.png
     alt: "Entanglement"
-    title: "Entanglement"
-    excerpt: "long distance entanglement distribution in frequency domain"
+    title: "Q-Entanglement"
+    excerpt: "Long distance entanglement distribution in frequency domain"
     url: "/docs/home_more3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
