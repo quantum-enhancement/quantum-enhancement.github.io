@@ -6,6 +6,7 @@ toc: false
 ---
 
 QKD Post-processing secure accelerator
+
 (High-speed parallel processing using Word Marsking method) 
 : KR patented, #KR101575123B1
 
