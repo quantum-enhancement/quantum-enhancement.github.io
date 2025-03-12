@@ -16,10 +16,8 @@ excerpt: Reach out using the form below, or email [contact@quen.ai](mailto:conta
 ---
 ## Contact us
 
-{: .notice--info}
-이 페이지는 아직 작업중입니다. 아래 폼은 아직 동작안함.
 
-<form action="https://formspree.io/your-email@example.com" method="POST">
+<form action="https://formspree.io/f/xzzebjjq" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
   
