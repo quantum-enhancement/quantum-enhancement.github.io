@@ -1,4 +1,5 @@
 ---
+title: "Quantum Enhancement"
 layout: splash
 permalink: /
 hidden: true
@@ -9,8 +10,7 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: >
-  Technologies by quantum science and security from physics !  <br />
+excerpt: Technologies by quantum science and security from physics !  <br />
   We develop the necessary solutions with spooky action at a distance.
 feature_row:
   - image_path: /assets/images/sensitive_fast_safe.png
