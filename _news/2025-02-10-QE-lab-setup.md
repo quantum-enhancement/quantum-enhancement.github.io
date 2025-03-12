@@ -1,13 +1,10 @@
 ---
 title: "Quantum Enhancement 연구소 설립"
 categories:
-  - Edge Case
+  - news
 tags:
   - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - news
 ---
 
 ## Quantum Enhancement 연구소 설립  
