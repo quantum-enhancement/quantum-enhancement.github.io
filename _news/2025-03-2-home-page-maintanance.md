@@ -1,10 +1,6 @@
 ---
 title: "홈페이지 새 단장"
 classes: wide
-categories:
-  - news
-tags:
-  - organization
 header:
   teaser: /assets/images/homepage_capture1.png
 gallery:
