@@ -1,7 +1,6 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: " "
 layout: single
 classes: wide
 toc: false
