@@ -10,8 +10,10 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: Technologies by quantum science and security from physics !  <br />
-  We develop the necessary solutions with spooky action at a distance.
+excerpt: "Technologies by quantum science and security from physics !  <br />
+  We develop the necessary solutions with spooky action at a distance."
+intro: 
+  - excerpt: ''
 feature_row:
   - image_path: /assets/images/sensitive_fast_safe.png
     alt: "Q-Computing"
@@ -35,5 +37,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
