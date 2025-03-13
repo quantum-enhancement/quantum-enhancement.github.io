@@ -6,7 +6,6 @@ toc: false
 ---
 
 
-```markdown
 -True quantum number generator
 
 -QKD Post-processing secure accelerator
