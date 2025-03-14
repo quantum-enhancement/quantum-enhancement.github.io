@@ -1,8 +1,9 @@
 ---
-title: "Q-sensing"
+title: "Q-Entaglement"
 permalink: /docs/q_entanglement/
-excerpt: "Fabrication of high-dim frequency entanglement generator using ring resonator  "
-last_modified_at: 2025-03-10T11:22:01-05:00
+classes: wide
+excerpt: "Long distance entanglement distribution in frequency domain"
 ---
 
+## Fabrication of high-dim frequency entanglement generator using ring resonator   
 Quantum error correction system – FPG package- for image processing 
