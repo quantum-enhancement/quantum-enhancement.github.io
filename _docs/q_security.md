@@ -1,6 +1,6 @@
 ---
 title: "Q-communication"
-permalink: /docs/home_more1/
+permalink: /docs/q_security/
 excerpt: "Efficient QKD Post Processing using Word Masking technique"
 toc: false
 ---
