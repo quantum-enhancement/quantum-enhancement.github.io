@@ -1,5 +1,4 @@
 ---
-title: "Quantum Enhancement"
 layout: splash
 permalink: /
 hidden: true
