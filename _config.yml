@@ -159,8 +159,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  address1       : "서울시 용산구 한강로 2가 199-3, 23층"
-  address2       : " "
+  address1       : "서울특별시 용산구 회나무로 3, 2층 202호"
+  address2       : "서울특별시 용산구 한강로 2가 199-3, 23층"
 
 # Reading Files
 include:
