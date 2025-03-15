@@ -9,8 +9,9 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: "Technologies by quantum science and security from physics !  <br />
-  We develop the necessary solutions with spooky action at a distance."
+excerpt: >
+    Technologies by quantum science and security from physics !  <br />
+    We develop the necessary solutions with spooky action at a distance.
 intro: 
   - excerpt: ''
 feature_row:
