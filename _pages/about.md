@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ABOUT
 permalink: /about/
 layout: single
 classes: wide
@@ -7,7 +7,7 @@ toc: false
 header:
     overlay_image: assets/images/sphere.jpg
     overlay_filter: 0.4
-excerpt: "Technologies by quantum science and security from physics !"
+excerpt: Technologies by quantum science and security from physics !
 ---
 
 {: .notice--info}

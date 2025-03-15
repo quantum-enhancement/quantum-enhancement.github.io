@@ -1,6 +1,6 @@
 ---
+title: CONTACT
 permalink: /contact/
-title: "Contact"
 layout: single
 classes: wide
 toc: false

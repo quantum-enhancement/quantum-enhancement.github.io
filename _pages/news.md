@@ -1,5 +1,5 @@
 ---
-title: "NEWS"
+title: NEWS
 layout: collection
 permalink: /news/
 collection: news
