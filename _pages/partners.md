@@ -16,7 +16,7 @@ Our partnerships provide Quantum Enhancemet with unique opportunities to scale d
 
 ---------------------------------------
  
-## [**아토믹스 AI**](https://cloudfold.atomics.ai/)  
+## [**아토믹스 AI**](https://www.atomics.ai/)  
     
 단백질 분자구조 계산을 통한 신약 개발  
 단백질 구조 및 약물분자 데이터 셋을 구성하고  
