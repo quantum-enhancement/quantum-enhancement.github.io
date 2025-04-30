@@ -9,7 +9,6 @@ tags:
   - research
 ---
 
-# Key-rate Enhancement Using Qutrit States for Quantum Key Distribution with Askew Aligned Sources
 
 **Authors**: Yonggi Jo, Wonmin Son  
 **Published in**: *Physical Review A*, 94(5), 052316 (2016)  
