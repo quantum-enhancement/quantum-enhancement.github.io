@@ -6,6 +6,8 @@ collection: research
 entries_layout: list
 classes: wide
 toc: false
+sort_by: date
+sort_order: reverse  
 header:
     overlay_image: assets/images/ai_gen2_clipped.jpg
     overlay_filter: 0.4
