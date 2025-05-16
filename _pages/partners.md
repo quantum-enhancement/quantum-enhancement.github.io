@@ -8,11 +8,10 @@ toc: false
 header:
     overlay_image: assets/images/partnership_header.jpeg
     overlay_filter: 0.4
-excerpt: 
+excerpt: Our partnerships provide Quantum Enhancemet with unique opportunities to scale development of our IP, inform the development of next-generation quantum hardware, and accelerate commercialisation of high-value breakthroughs.  
+
 # 이 페이지는 markdowns 으로 직접 작성해야 할 것 같다.  
 ---
-
-Our partnerships provide Quantum Enhancemet with unique opportunities to scale development of our IP, inform the development of next-generation quantum hardware, and accelerate commercialisation of high-value breakthroughs.  
 
 ---------------------------------------
  
