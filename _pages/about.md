@@ -7,12 +7,8 @@ toc: false
 header:
     overlay_image: assets/images/sphere.jpg
     overlay_filter: 0.4
-excerpt: 
+excerpt: At **Quantum Enhancement Inc.**, we develop the necessary solutions with spooky action at a distance. Our mission is to harness the power of quantum mechanics to solve some of the most challenging problems in computing, cryptography, and communication.
 ---
-
-# About Quantum Enhancement
-
-At **Quantum Enhancement Inc.**, we develop the necessary solutions with spooky action at a distance. Our mission is to harness the power of quantum mechanics to solve some of the most challenging problems in computing, cryptography, and communication.
 
 ---
 
