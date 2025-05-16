@@ -8,7 +8,7 @@ toc: false
 header:
     overlay_image: assets/images/partnership_header.jpeg
     overlay_filter: 0.4
-excerpt: An unprecedented level of access to today’s best quantum hardware
+excerpt: 
 # 이 페이지는 markdowns 으로 직접 작성해야 할 것 같다.  
 ---
 
