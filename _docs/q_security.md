@@ -5,10 +5,9 @@ classes: wide
 excerpt: "Efficient QKD Post Processing using Word Masking technique"
 ---
 
-## Efficient QKD Post Processing using Word Masking technique  
+## Quantum securities in various scenario
 - True quantum random number generator
-- QKD Post-processing secure accelerator  
+- Efficient QKD Post-processing Accelerator using Word Masking technique
 &nbsp; (High-speed parallel processing using Word Marsking method)  
 &nbsp; : KR patented, #KR101575123B1
-- Quantum securities in various scenario
 
