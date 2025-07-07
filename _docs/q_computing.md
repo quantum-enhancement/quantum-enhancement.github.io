@@ -11,8 +11,6 @@ excerpt: "Quantum Algorithm for Large Scale Quantum System Simulation"
 
 <!-- uncomment this to fit vertical height to contents automatically
 <script type="text/javascript" src="https://thegltr.com/gltr_api.js"></script>
--->
-<iframe src="https://thegltr.com/gltr_api.php?gid=11000359&lc=en&am=i" title="✨ Quantum Computer"></iframe>
 <script type="text/javascript">
 	let iframe = document.getElementById('myiframe');
     
@@ -20,3 +18,5 @@ excerpt: "Quantum Algorithm for Large Scale Quantum System Simulation"
     	iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px';
     });
 </script>
+-->
+<iframe width="560" height="315" src="https://thegltr.com/gltr_api.php?gid=11000359&lc=en&am=i" title="✨ Quantum Computer"></iframe>
