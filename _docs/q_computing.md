@@ -19,4 +19,4 @@ excerpt: "Quantum Algorithm for Large Scale Quantum System Simulation"
     });
 </script>
 -->
-<iframe width="560" height="315" src="https://thegltr.com/gltr_api.php?gid=11000359&lc=en&am=i" title="✨ Quantum Computer"></iframe>
+<iframe width="560" height="315" src="https://thegltr.com/gltr_api.php?gid=11000359&lc=en&sl=0&am=i" title="✨ Quantum Computer"></iframe>
