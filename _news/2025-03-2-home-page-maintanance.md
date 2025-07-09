@@ -17,13 +17,4 @@ gallery:
 
 [https://jekyllrb-ko.github.io/](https://jekyllrb-ko.github.io/)
 
-### 작업 진행 절차 
-
-1. Github Organization 생성  
-
-2. 현재 홈페이지 수정 중 표시  
-
-3. 수정 중 표시를 새로운 공간으로 주소 교체   
-  - 도메인 수정 필요  
-
-4. 임시 페이지를 실제 홈페이지로 교체   
+ 
