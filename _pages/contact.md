@@ -17,16 +17,29 @@ excerpt: Reach out using the form below, or email [contact@quen.ai](mailto:conta
 
 
 <form action="https://formspree.io/f/xzzebjjq" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
+  <p>
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required placeholder="Your Name">
+  </p>
+
+  <p>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required placeholder="example@company.com">
+  </p>  
   
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  
-  <button type="submit">Send</button>
+  <p>
+    <label for="company">Company/Organization</label><br>
+    <input type="text" id="company" name="company" placeholder="Company or Organization (optional)">
+  </p>
+
+  <p>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" required rows="5"></textarea>
+  </p>
+
+  <p>
+  <button type="submit" class="btn btn--primary">Send</button>
+  </p>
 </form>
 
 
