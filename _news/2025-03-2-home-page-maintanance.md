@@ -1,6 +1,8 @@
 ---
 title: "홈페이지 새 단장"
 classes: wide
+date: 2025-03-02
+categories: [news]
 header:
   teaser: /assets/images/homepage_capture1.png
 gallery:
