@@ -11,10 +11,17 @@ header:
 excerpt: Our partnerships provide Quantum Enhancemet with unique opportunities to scale development of our IP, inform the development of next-generation quantum hardware, and accelerate commercialisation of high-value breakthroughs.  
 
 # 이 페이지는 markdowns 으로 직접 작성해야 할 것 같다.  
----
-
 ---------------------------------------
  
+## [**ISBC**](https://www.isbc.co.kr/en/) 
+    
+고속 클라우드 기반 HPC 서비스 제공  
+다양한 방식의 AI-HPC R&D 솔루션을 확보  
+AWS의 클라우드 서비스 관련 기술지원을 담당하고 있으며  
+양자컴 플렛폼 효율적 이용을 위한 QE사와 제휴 협력 MOU 체결
+
+--------------------------------------------
+
 ## [**아토믹스 AI**](https://www.atomics.ai/)  
     
 단백질 분자구조 계산을 통한 신약 개발  
