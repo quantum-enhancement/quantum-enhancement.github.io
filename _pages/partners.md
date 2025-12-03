@@ -18,7 +18,7 @@ excerpt: Our partnerships provide Quantum Enhancement with unique opportunities 
 고속 클라우드 기반 HPC 서비스 제공  
 다양한 방식의 AI-HPC R&D 솔루션을 확보  
 AWS의 클라우드 서비스 관련 기술지원을 담당하고 있으며  
-양자컴 플렛폼 효율적 이용을 위한 QE사와 제휴 협력 MOU 체결
+양자컴 플렛폼 효율적 이용을 위한 QE사와 제휴 협력 의결
 
 ---
 
